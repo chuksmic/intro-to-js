@@ -7,3 +7,4 @@ console .log(myname);
 console .log(hieght);
 console .log (mycountry)
 
+document.write('<a href="https://chuksmic.github.io/intro-to-js"> Go to Github Repo</a>');
